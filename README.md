@@ -1,5 +1,5 @@
 # poisoning_enhancement
-In this repository, code is for our paper [PoE: Poisoning Enhancement Through Label Smoothing in Federated Learning](https://trebuchet.public.springernature.app/get_content/6a6f20bb-2da3-4452-b84d-5ab10f45d7d7)
+In this repository, code is for our paper [PoE: Poisoning Enhancement Through Label Smoothing in Federated Learning]
 
 ## Installation
 Install Python>=3.7.0 and Pytorch>=1.8.0
